@@ -1,3 +1,5 @@
+![build and tests](https://github.com/marvinwagner/tco.extensions/actions/workflows/dotnet.yml/badge.svg?event=push)
+
 # TCO Extensions
 
 TCO Extensions is a package with additional features for testing. It was made just for studying purposes.

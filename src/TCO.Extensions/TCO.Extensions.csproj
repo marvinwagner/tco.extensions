@@ -10,12 +10,18 @@
     <Authors>marvinwagner</Authors>
     <Company>marvinwagner</Company>
     <Description>An extension library that provides additional functionalities to test methods using xUnit</Description>
-    <PackageIcon>TCOIcon-removebg.png</PackageIcon>
+    <PackageIcon>TCOIcon.png</PackageIcon>
     <Version>1.0.1</Version>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/marvinwagner/tco.extensions</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\Users\Marvin\Pictures\TCOIcon-removebg.png">
+    <None Include="..\..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\TCOIcon.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
